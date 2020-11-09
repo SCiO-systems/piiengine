@@ -8,7 +8,7 @@ https://nlp.stanford.edu/ner/
 
 Technologies used:
 
-Apache Camel
-Apache Tika
-Elasticsearch
+Apache Camel,
+Apache Tika,
+Elasticsearch,
 Mongo
